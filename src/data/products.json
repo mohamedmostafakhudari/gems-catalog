@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "BTS Light Stick Ver. 4",
+    "category": "K-Pop",
+    "price": 1850,
+    "inStock": true,
+    "imageUrl": "/images/products/bts-lightstick.jpg",
+    "description": "Official-style light stick with Bluetooth sync."
+  },
+  {
+    "id": 2,
+    "name": "Stray Kids Photocard Set",
+    "category": "K-Pop",
+    "price": 250,
+    "inStock": true,
+    "imageUrl": "/images/products/skz-photocards.jpg",
+    "description": "Set of 8 collectible photocards."
+  },
+  {
+    "id": 3,
+    "name": "Naruto Uzumaki Figure",
+    "category": "Anime",
+    "price": 950,
+    "inStock": false,
+    "imageUrl": "/images/products/naruto-figure.jpg",
+    "description": "15 cm PVC figure with display base."
+  },
+  {
+    "id": 4,
+    "name": "Attack on Titan Poster (A3)",
+    "category": "Anime",
+    "price": 120,
+    "inStock": true,
+    "imageUrl": "/images/products/aot-poster.jpg",
+    "description": "Glossy A3 print, ready to frame."
+  },
+  {
+    "id": 5,
+    "name": "Enamel Pin Set",
+    "category": "Accessories",
+    "price": 180,
+    "inStock": true,
+    "imageUrl": "/images/products/pin-set.jpg",
+    "description": "Pack of 5 assorted enamel pins."
+  },
+  {
+    "id": 6,
+    "name": "Anime Tote Bag",
+    "category": "Accessories",
+    "price": 320,
+    "inStock": true,
+    "imageUrl": "/images/products/tote-bag.jpg",
+    "description": "Heavy canvas tote with printed artwork."
+  }
+]
